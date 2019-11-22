@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pluhrsen/test-driven-katas/issues"
   },
-  "homepage": "https://github.com/pluhrsen/test-driven-katas#readme"
+  "homepage": "https://github.com/pluhrsen/test-driven-katas#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
